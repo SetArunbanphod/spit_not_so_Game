@@ -1,0 +1,9 @@
+SPIT
+FOP
+PAN
+IF
+IN
+NOT
+SO
+AS
+FAT

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1485157968 source:c:\users\a_setthawut\desktop\algorithms\spit_not_so\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cstdlib>
+
